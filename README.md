@@ -11,7 +11,7 @@ https://docs.google.com/presentation/d/1omfFy46Q10Z5IvlPeHKjP9DoIJrLabQGxIe1DXid
 
 Talk apresentada em um evento interno dentro da empresa LETT DIGITAL.
 
-
+https://docs.google.com/presentation/d/1509CWu5PurGEW3WglbJu10rayA2HEIEmYHm7iIq3TUg/edit?usp=sharing
 
 ## Open-source como uma oportunidade de crescimento
 
