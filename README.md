@@ -32,3 +32,9 @@ https://github.com/pxd3v/Microfront-With-Module-Federation
 Talk apresentada em um evento interno na Hotmart, onde explico algumas práticas de programação funcional que podem nos ajudar a prevenir diversos problemas na hora de escalar nossas aplicações.
 
 https://docs.google.com/presentation/d/1WL9CSctxbrd3TU9fuIu5w1uuh9nHcO3w/edit?usp=sharing&ouid=104852681259674860462&rtpof=true&sd=true
+
+## Developer Experience
+
+Talk inspirada em uma apresentação do The Developers Conference, em que eu aprofundo no assunto de Developer Experience.
+
+https://docs.google.com/presentation/d/1dVON9VwtZh0Fjab-GqKvSbGbPTm5D8zzF3LoK_RBZC4/edit?usp=sharing
